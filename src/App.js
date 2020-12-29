@@ -14,6 +14,7 @@ import Register from './components/Register';
 
 // Setting the base url of axios
 // modify this if running on different domain
+// modify this if running on different domain
 axios.defaults.baseURL = 'http://localhost:8000/api';
 
 // creating redux store
